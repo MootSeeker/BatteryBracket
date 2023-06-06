@@ -83,186 +83,77 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SADYREYU
 
-[Document3]
-DocumentPath=6613360201.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [ProjectVariant1]
 UniqueID=EE5751F6-655E-4F63-A3EE-5618910CC074
-Description=011336A201
+Description=011336A101
 AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for\BOM\011336A101a.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for\BOM\011336A101a.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for\BOM\011336A101a_Reselec.csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for\BOM\011336A201a.csv
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for\BOM\011336A201a.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for\BOM\011336A201a_Reselec.csv
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for\NC Drill\6613360201-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for\NC Drill\6613360201-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for\NC Drill\6613360201.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for\NC Drill\6613360201.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for\Gerber\6613360201.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for\Gerber\6613360201.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for\Gerber\6613360201.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for\Gerber\6613360201.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for\Gerber\6613360201.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for\Gerber\6613360201.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for\Gerber\6613360201.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for\Gerber\6613360201.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for\Gerber\6613360201.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for\Gerber\6613360201.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for\NC Drill\6613360201.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for\Gerber\6613360201.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for\Gerber\6613360201.RUL
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Altium_Version
-Value=Release 23.0.1
+Name=Stencil_Thickness
+Value=0.125mm
 
 [Parameter2]
-Name=PCB_Controll
-Value=electronic
-
-[Parameter3]
-Name=PCB_Copper_Thickness
-Value=35um
-
-[Parameter4]
-Name=PCB_Data
-Value=Gerber
-
-[Parameter5]
-Name=PCB_Designer
-Value=DUJ
-
-[Parameter6]
-Name=PCB_Layer_Count
-Value=2
-
-[Parameter7]
-Name=PCB_Material
-Value=FR-4
-
-[Parameter8]
-Name=PCB_Nummer
-Value=66.1336.0201
-
-[Parameter9]
-Name=PCB_Silkscreen
-Value=No/Top/Bottom
-
-[Parameter10]
-Name=PCB_Solder_Surface
-Value=chem.NiAu
-
-[Parameter11]
-Name=PCB_Surface
-Value=green
-
-[Parameter12]
-Name=PCB_Thickness
-Value=1.60 mm
-
-[Parameter13]
-Name=Project_Name
-Value=11336.HL-2P
-
-[Parameter14]
-Name=Revision_V
-Value=a
-
-[Parameter15]
 Name=Schematic_Designer
 Value=DUJ
 
+[Parameter3]
+Name=Revision_V
+Value=a
+
+[Parameter4]
+Name=Project_Name
+Value=11336.HL-2P
+
+[Parameter5]
+Name=PCB_Thickness
+Value=1.60 mm
+
+[Parameter6]
+Name=PCB_Surface
+Value=green
+
+[Parameter7]
+Name=PCB_Solder_Surface
+Value=chem.NiAu
+
+[Parameter8]
+Name=PCB_Silkscreen
+Value=No/Top/Bottom
+
+[Parameter9]
+Name=PCB_Nummer
+Value=66.1336.0201
+
+[Parameter10]
+Name=PCB_Material
+Value=FR-4
+
+[Parameter11]
+Name=PCB_Layer_Count
+Value=2
+
+[Parameter12]
+Name=PCB_Designer
+Value=DUJ
+
+[Parameter13]
+Name=PCB_Data
+Value=Gerber
+
+[Parameter14]
+Name=PCB_Copper_Thickness
+Value=35um
+
+[Parameter15]
+Name=PCB_Controll
+Value=electronic
+
 [Parameter16]
-Name=Stencil_Thickness
-Value=0.125mm
+Name=Altium_Version
+Value=Release 23.0.1
 
 [Configuration1]
 Name=Default Configuration
